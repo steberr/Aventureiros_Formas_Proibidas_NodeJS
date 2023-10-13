@@ -1,0 +1,29 @@
+{
+  "name": "poligono_irregular",
+  "version": "1.0.0",
+  "description": "calcular area do poligono irregular",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielvis14/Aventureiros_Formas_Proibidas_NodeJS.git"
+  },
+  "keywords": [
+    "calcular",
+    "area",
+    "do",
+    "poligono",
+    "irregular"
+  ],
+  "author": "Daniel De Jesus Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danielvis14/Aventureiros_Formas_Proibidas_NodeJS/issues"
+  },
+  "homepage": "https://github.com/Danielvis14/Aventureiros_Formas_Proibidas_NodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
